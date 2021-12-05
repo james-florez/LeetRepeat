@@ -442,7 +442,7 @@ function getProblemDescription(
     );
 }
 function getProblemHeader() {
-  return '<img class="logo" src="images/32x32dark.png"/> <b class="Heading">Time to <strong>REPEET</strong> 💪</b>';
+  return '<img class="logo" src="images/32x32dark.png"/> <b class="Heading">Time to <strong>REPEAT</strong> 💪</b>';
 }
 
 function myFunction(event) {
